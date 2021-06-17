@@ -1,0 +1,6 @@
+.Node {
+    width: 25px;
+    height: 25px; 
+    border: black 1px solid;
+    display: inline-block
+}
